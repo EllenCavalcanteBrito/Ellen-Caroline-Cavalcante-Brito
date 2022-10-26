@@ -8,5 +8,35 @@ Ingressei minha vida profissional na área financeira/administrativa mas atualme
 - 📚💻 Atualmente estou desenvolvendo um novo projeto em react ( além disso, estou aprimorando minhas habilidades em SPA e consumo de APIS)
 - 🤝 Busco uma oportunidade para executar meu aprendizado e poder contribuir no desenvolvimento de projetos na área da tecnologia.
 
+📫 E-mail: ellen.cavalcante@hotmail.com.br
 
-<b> Conheça mais sobre minhas experiências profissinais e certificações: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ellencavalcantebrito/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ellencavalcantebrito/) 
+
+<div align="center">
+<h2 align="center">Linguagens e Ferramentas que eu utilizo:</h1>
+  
+  <table>
+    <tr>
+      <td>
+        <h3>Programação:</h3>
+        <div style="display: inline_block">
+          <img alt="HTML5" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+          <img alt="CSS3" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+          <img alt="ECMAScript/JavaScript" width="37" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+          <img alt="React" width="37" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+          <img alt="Firebase" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />        
+          <img alt="Jest" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />    
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>UX Design:</h3>
+        <div style="display: inline_block">
+          <img alt="Figma" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+        </div>
+       </td>
+    </tr>
+  </table>
+<br>
+
