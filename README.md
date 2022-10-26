@@ -1,4 +1,4 @@
-# Ellen Caroline Cavalcante Brito
+# Ellen Cavalcante Brito
 
 
 ### Hi 👋
