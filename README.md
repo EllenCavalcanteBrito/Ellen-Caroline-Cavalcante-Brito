@@ -1,7 +1,7 @@
 # Ellen Cavalcante Brito
 
 
-### Hi 👋
+### Olá! 👋
 Sou uma pessoa comunicativa, proativa e que ama conhecer coisas novas, acredito que o conhecimento é a ferramenta mais valiosa para o nosso crescimento.
 Ingressei minha vida profissional na área financeira/administrativa mas atualmente estudo para ser uma futura desenvolvedora, esse meu interesse surgiu devido a alguns projetos da faculdade que eram relacionados a marketing, com criação de uma marca/site, com isso desenvolvi alguns projetos para estudo pela plataforma Wix e logo após eu atuei como freelancer na criação de sites. Como eu sempre tive muita curiosidade em entender todo o processo eu resolvi fazer cursos para aprimorar meus conhecimentos e resolvi participar do bootcamp da Laboratória BR.
 
