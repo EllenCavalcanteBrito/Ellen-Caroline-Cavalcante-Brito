@@ -8,6 +8,7 @@ Ingressei minha vida profissional na área financeira/administrativa mas atualme
 - 📚💻 Atualmente estou desenvolvendo um novo projeto em react ( além disso, estou aprimorando minhas habilidades em SPA e consumo de APIS)
 - 🤝 Busco uma oportunidade para executar meu aprendizado e poder contribuir no desenvolvimento de projetos na área da tecnologia.
 
+📍 Barueri, São Paulo.
 📫 E-mail: ellen.cavalcante@hotmail.com.br
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ellencavalcantebrito/) 
